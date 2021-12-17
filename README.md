@@ -5,3 +5,7 @@ generating image descriptions for a single image is a well studied problem in Co
 App Link:
 
 https://huggingface.co/spaces/sohaibcs1/Image-to-Text-Summary
+
+Example:
+
+<img src="https://github.com/sohaibcs1/ImageSummarizer/blob/main/example.PNG" alt="Website Site" width="600" height="300">
